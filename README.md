@@ -16,11 +16,11 @@ TechWave Electronics is a global e-commerce company specializing in the sale of 
  **Marketing Campaign Effectiveness**  
    - Assessment of marketing ROI and lead conversion success.
 
-An interactive Power BI Dashboard: [https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales_marketing.pbix]
+An interactive Power BI Dashboard: [link](https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales_marketing.pbix)
 
-The SQL Queries used to inspect and perform quality checks: [https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/data_quality_checks.sql]
+The SQL Queries used to inspect and perform quality checks: [link](https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/data_quality_checks.sql)
 
-The SQL Queries utilized to prepare the dashboard: [https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales-marketing-queries.sql]
+The SQL Queries utilized to prepare the dashboard: [link](https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales-marketing-queries.sql)
 
 ##  Data Structure and Initial Checks
 TechWave's database structure consists of the following key tables:
@@ -34,10 +34,11 @@ TechWave's database structure consists of the following key tables:
   
 From January 2022 to August 2024, TechWave Electronics exhibited different performances over the years. In 2022, it was a base year with no variation in revenue, conversion rates, and closed deals. In the year 2023, the company witnessed positive growth in revenue by 4.75% and a slight increment in closed deals by 1.20%, while the conversion rate decreased by -1.25%. Yet, for this year, revenue drastically went down by -34.89%, the average conversion rate also decreased by -0.43%, while the number of closed deals declined by as high as -30.18%. This decrease in performance during 2024, contrasting to the positive performance in 2023, highlights areas of concern that need to be addressed moving forward.
 
-Below is an overview page from the Power BI dashboard, with additional examples provided throughout the report. The interactive dashboard can be accessed here: [https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales_marketing.pbix]
+Below is an overview page from the Power BI dashboard, with additional examples provided throughout the report. The interactive dashboard can be accessed here: [link] (https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales_marketing.pbix)
  
  **Sales Trend Analysis** 
- There has been significant fluctuations in both revenue and profit from 2022 to 2024. 2022 (Base Year): Revenue was $601k, while profit was at 132K. This was used as the base for comparison in further years. 2023: Revenue was $630k an increase of 4.75%, reflecting positive growth. The profit also increased moderately by 3.14% to 136K 2024: Both revenue and profit took a sharp downturn. Revenue as at August is $410K, a declined by 34.89%, and profit dropped by 37.16%, falling to 86K.
+ There has been significant fluctuations in both revenue and profit from 2022 to 2024. 2022 (Base Year): Revenue was $601k, while profit was at $132K. This was used as the base for comparison in further years. 2023: Revenue was $630k an increase of 4.75%, reflecting positive growth. The profit also increased moderately by 3.14% to $136K 2024: Both revenue and profit took a sharp downturn. Revenue as at August is $410K, a declined by 34.89%, and profit dropped by 37.16%, falling to $86K.
+ 
 ![image](https://github.com/user-attachments/assets/0ff7b47c-25ad-44ff-aa28-577d9ff97dc6)
 
 **Lead and Marketing Campaign**
@@ -48,6 +49,7 @@ There are steady trends in lead performance and marketing campaign effectiveness
 
 2024: Lead Conversion Rate slightly fell to 77%, Average Revenue per Lead was $824.75, and Cost per Lead decreased to $652.35. ROAS slightly decreased to 1.26.
 Marketing campaigns such as Winter Promo and Spring Promo remained key revenue drivers. Summer Deals showed consistent seasonal performance. Email and social media were the top lead sources, with Referral yielding the highest revenue per lead.
+
  ![image](https://github.com/user-attachments/assets/63062b40-0fbd-4c42-b8fd-711e57f306bc)
 
 
@@ -56,6 +58,7 @@ There have been notable shifts in customer engagement and loyalty from 2022 to 2
 2022 (Base Year): CLV was $975.58, NPS was -43.37, and Repeat Purchase Rate was 20.29%. Basic Plan customers outperformed Premium, especially in Europe.
 2023: CLV increased slightly to $1.01k, while NPS remained negative at -42.46. Basic Plan continued to outperform Premium. Email and Referral channels drove higher CLV, and regions like Asia and North America showed potential for more premium engagement.
 2024: CLV decreased to $927.37, while NPS worsened to -46.48. Repeat Purchase Rate dropped to 11.76%. Referral leads continued to be at the top; Cold Calling presented lower value. Basic Plan customers kept leading in value, while Premium Plan continued to struggle.
+
 ![image](https://github.com/user-attachments/assets/c8a8e4d5-3677-4ffe-8891-fa586019bbca)
 
 **Product Performance Analysis**
@@ -65,6 +68,7 @@ Product performance has some fluctuation from 2022 to 2024.
 
 2023: Revenue per Product increased to $41.97k, Conversion Rate reached 7.90%, and Sales Growth was 4.75%. Growth drivers were Drone Vision and Soundbar 360, while some products declined.
 2024: Revenue per Product is $27.33k, decreased by -34.89% in sales growth. Remarkable decreases observed in Laptops Pro 14, Wireless Speakers. Meanwhile, companies performed quite nicely with respect to their counterparts for Gaming Consoles Z and Smart TVs QLED, respectively.
+
 ![image](https://github.com/user-attachments/assets/1bf99db9-0f05-48e3-a02a-247f98e4422e)
 
 ## Recommendations
