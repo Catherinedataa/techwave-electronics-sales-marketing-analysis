@@ -17,23 +17,27 @@ TechWave Electronics is a global e-commerce company specializing in the sale of 
    - Assessment of marketing ROI and lead conversion success.
 
 An interactive Power BI Dashboard: [https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales_marketing.pbix]
+
 The SQL Queries used to inspect and perform quality checks: [https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/data_quality_checks.sql]
+
 The SQL Queries utilized to prepare the dashboard: [https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales-marketing-queries.sql]
 
-## ** Data Structure and Initial Checks**
+##  Data Structure and Initial Checks
 TechWave's database structure consists of the following key tables:
 •	sales_data: Contains transactional details such as sales amount, cost price, customer feedback, and IDs linking to related dimensions (e.g., product, customer, campaign, etc.).
 •	dimcountry: Maps country and region details to transactions.
 •	dimchannel, dimcustomer, dimleadsource, dimmarketingcampaign, dimproduct, dimsalesrep: Contain additional descriptive information for various dimensions related to sales.
 ![image](https://github.com/user-attachments/assets/69c7d9d0-8a54-48e6-975a-1a980840752c)
 
-## ** Executive Summary **
+##  Executive Summary 
   **Overview of Findings** 
+  
 From January 2022 to August 2024, TechWave Electronics exhibited different performances over the years. In 2022, it was a base year with no variation in revenue, conversion rates, and closed deals. In the year 2023, the company witnessed positive growth in revenue by 4.75% and a slight increment in closed deals by 1.20%, while the conversion rate decreased by -1.25%. Yet, for this year, revenue drastically went down by -34.89%, the average conversion rate also decreased by -0.43%, while the number of closed deals declined by as high as -30.18%. This decrease in performance during 2024, contrasting to the positive performance in 2023, highlights areas of concern that need to be addressed moving forward.
 
 Below is an overview page from the Power BI dashboard, with additional examples provided throughout the report. The interactive dashboard can be accessed here: [https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales_marketing.pbix]
  
- **Sales Trend Analysis** There has been significant fluctuations in both revenue and profit from 2022 to 2024. 2022 (Base Year): Revenue was $601k, while profit was at 132K. This was used as the base for comparison in further years. 2023: Revenue was $630k an increase of 4.75%, reflecting positive growth. The profit also increased moderately by 3.14% to 136K 2024: Both revenue and profit took a sharp downturn. Revenue as at August is $410K, a declined by 34.89%, and profit dropped by 37.16%, falling to 86K.
+ **Sales Trend Analysis** 
+ There has been significant fluctuations in both revenue and profit from 2022 to 2024. 2022 (Base Year): Revenue was $601k, while profit was at 132K. This was used as the base for comparison in further years. 2023: Revenue was $630k an increase of 4.75%, reflecting positive growth. The profit also increased moderately by 3.14% to 136K 2024: Both revenue and profit took a sharp downturn. Revenue as at August is $410K, a declined by 34.89%, and profit dropped by 37.16%, falling to 86K.
 ![image](https://github.com/user-attachments/assets/0ff7b47c-25ad-44ff-aa28-577d9ff97dc6)
 
 **Lead and Marketing Campaign**
@@ -63,7 +67,7 @@ Product performance has some fluctuation from 2022 to 2024.
 2024: Revenue per Product is $27.33k, decreased by -34.89% in sales growth. Remarkable decreases observed in Laptops Pro 14, Wireless Speakers. Meanwhile, companies performed quite nicely with respect to their counterparts for Gaming Consoles Z and Smart TVs QLED, respectively.
 ![image](https://github.com/user-attachments/assets/1bf99db9-0f05-48e3-a02a-247f98e4422e)
 
-## **Recommendations**
+## Recommendations
 
 Marketing Campaigns: Improve the visibility of their products in the market; this could be done better during peak sales months such as Black Friday and Cyber Monday. Use data effectively to discern target audiences for which one can craft campaigns for.
 
@@ -77,7 +81,7 @@ Improve Organic Marketing Strategy: Enhance social media and SEO to generate hig
 
 Enhancing NPS for Underperforming Products: Increase the focus on customer feedback, enhance the quality of products, and work out solutions to customers' most frequently heard complaints, especially for Wireless Speaker and Laptop Pro 14.
 
-## ** Caveats and Assumptions**
+##  Caveats and Assumptions
 
 Product Life Cycle: Some products, especially electronic ones, may have naturally declined due to saturation and the introduction of new competing products.
 
