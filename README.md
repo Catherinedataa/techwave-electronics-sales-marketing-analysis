@@ -35,11 +35,17 @@ TechWave's database structure consists of the following key tables:
 ##  Executive Summary 
   **Overview of Findings** 
   
-From January 2022 to August 2024, TechWave Electronics exhibited different performances over the years. In 2022, it was a base year with no variation in revenue, conversion rates, and closed deals. In the year 2023, the company witnessed positive growth in revenue by 4.75% and a slight increment in closed deals by 1.20%, while the conversion rate decreased by -1.25%. Yet, for this year, revenue drastically went down by -34.89%, the average conversion rate also decreased by -0.43%, while the number of closed deals declined by as high as -30.18%. This decrease in performance during 2024, contrasting to the positive performance in 2023, highlights areas of concern that need to be addressed moving forward.
+From January 2022 to August 2024, TechWave Electronics exhibited different performances over the years.
+In 2022, it was a base year with no variation in revenue, conversion rates, and closed deals. 
+
+In the year 2023, the company witnessed positive growth in revenue by 4.75% and a slight increment in closed deals by 1.20%, while the conversion rate decreased by 1.25%.
+
+Yet, for this year, revenue drastically went down by 34.89%, the average conversion rate also decreased by 0.43%, while the number of closed deals declined by as high as 30.18%. This decrease in performance during 2024, contrasting to the positive performance in 2023, highlights areas of concern that need to be addressed moving forward.
 
 Below is an overview page from the Power BI dashboard, with additional examples provided throughout the report. The interactive dashboard can be accessed here:[link](https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales_marketing.pbix)
  
- **Sales Trend Analysis** 
+ **Sales Trend Analysis**
+ 
  There has been significant fluctuations in both revenue and profit from 2022 to 2024.
  
  2022 (Base Year): Revenue was $601k, while profit was at $132K. This was used as the base for comparison in further years. 
@@ -51,6 +57,7 @@ Below is an overview page from the Power BI dashboard, with additional examples 
 ![image](https://github.com/user-attachments/assets/0ff7b47c-25ad-44ff-aa28-577d9ff97dc6)
 
 **Lead and Marketing Campaign**
+
 There are steady trends in lead performance and marketing campaign effectiveness from 2022 to 2024.
 
 2022 (Base Year): Lead Conversion Rate was 78%, Average Revenue per Lead was $797.02, and Cost per Lead was $621.71, with a ROAS of 1.28.
@@ -65,6 +72,7 @@ Marketing campaigns such as Winter Promo and Spring Promo remained key revenue d
 
 
 **Customer Loyalty and Engagement**
+
 There have been notable shifts in customer engagement and loyalty from 2022 to 2024.
 
 2022 (Base Year): CLV was $975.58, NPS was -43.37, and Repeat Purchase Rate was 20.29%. Basic Plan customers outperformed Premium, especially in Europe.
@@ -76,6 +84,7 @@ There have been notable shifts in customer engagement and loyalty from 2022 to 2
 ![image](https://github.com/user-attachments/assets/c8a8e4d5-3677-4ffe-8891-fa586019bbca)
 
 **Product Performance Analysis**
+
 Product performance has some fluctuation from 2022 to 2024.
 
 2022 (Base Year): Revenue per Product, on average, was $40.06k, Product Conversion Rate was 7.79%, and Sales Growth was flat at 0%. High performers were strong, such as Headphones Plus, whereas Laptop Pro 14 underperformed.
