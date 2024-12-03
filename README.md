@@ -42,7 +42,11 @@ In the year 2023, the company witnessed positive growth in revenue by 4.75% and 
 
 Yet, for this year, revenue drastically went down by 34.89%, the average conversion rate also decreased by 0.43%, while the number of closed deals declined by as high as 30.18%. This decrease in performance during 2024, contrasting to the positive performance in 2023, highlights areas of concern that need to be addressed moving forward.
 
-Below is an overview page from the Power BI dashboard, with additional examples provided throughout the report. The interactive dashboard can be accessed here:[link](https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales_marketing.pbix)
+Below is an overview page from the Power BI dashboard, with additional examples provided throughout the report.
+![overview](https://github.com/user-attachments/assets/0dcc2075-d686-4840-8591-959c82552112)
+
+
+The interactive dashboard can be accessed here:[link](https://github.com/Catherinedataa/techwave-electronics-sales-marketing-analysis/blob/master/sales_marketing.pbix)
  
  **Sales Trend Analysis**
  
